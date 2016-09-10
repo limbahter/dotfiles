@@ -1,5 +1,5 @@
 URxvt.font:                     xft:inconsolata:pixelsize=16
-URxvt*urlLauncher:              chromium  
+URxvt.iso14755:                 false
 URxvt*scrollBar:                false
 URxvt*scrollBar_right:          true
 URxvt*scrollColor:              #000000
