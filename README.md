@@ -1,5 +1,5 @@
 # dotfiles
-You can view my whole config in preview.png! :)
+You can view my whole config in preview.png! 
 1. List of config files: 
 	- [x] vim
 	- [x] bash
